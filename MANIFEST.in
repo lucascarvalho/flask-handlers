@@ -1,0 +1,5 @@
+include *.md
+include LICENSE
+exclude *.txt
+recursive-include *.py
+prune tests
